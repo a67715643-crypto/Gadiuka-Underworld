@@ -370,9 +370,17 @@ if input() == 'fight':
 
         print(colorama.Back.YELLOW)
         print('🐍')
-        print('Gadiuka: You were really full of determination last time! I really loved our adventure in the Underworld! But now when the admin is defea. But wait, waitted... We can live peacefully. And thank you wery much for saving the python. Now... Bye... I want to tell you that I am very happy that you survived. Because when symbols broke the connection I was scared that something can happen with you... something BAD. And I am really happy that you are alive... Now... Bye.')
+        print('Gadiuka: You were really full of determination last time! I really loved our adventure in the Underworld! But now when the admin is defeated... We can leave peacefully. And thank you wery much for saving the python. Now... Bye... But wait, wait...I want to tell you that I am very happy that you survived. Because when symbols broke the connection I was scared that something can happen with you... something BAD. And I am really happy that you are alive... Now... Bye.')
 
         coffee = 40
         tea = 20
         cookies = 5
         pie = 80
+
+        print(colorama.Back.LIGHTWHITE_EX)
+        print("""Thanks for playing!🐍
+        Made on Python
+        Powered by PyCharm
+        Made by Gadiuka
+
+        🐍Special thanks for Python and PyCharm""")
